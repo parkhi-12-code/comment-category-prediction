@@ -6,7 +6,7 @@ Kaggle ML project for multi-class text classification using TF-IDF and Logistic 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Competition-20BEFF?logo=kaggle)](https://www.kaggle.com/code/parkhiyadav/22f3002870-notebook-t12026)
 
 
-"#⚠️ Note: This project was developed as part of a college assignment and is currently private for evaluation. kaggle notebook will be made public soon."
+"#⚠️ Note: This project was developed as part of a college assignment and is currently private for evaluation. kaggle notebook will be made public soon. i have instead shared my .ipynb file and submission here.."
 
 > Multi-class NLP classification of **300,000 social media comments** into 4 categories — Kaggle competition | **Macro F1: 0.8026**
 
